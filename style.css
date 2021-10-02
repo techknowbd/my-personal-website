@@ -170,6 +170,17 @@ section{
     float: left;
     
 }
+.last{
+    color: green;
+    text-align: center;
+    padding-top: 100px;
+}
+#mob{
+
+    color: red;
+    background-image: linear-gradient(green);
+}
+
 
 .foot{
     padding: 20px;
